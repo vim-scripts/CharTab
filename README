@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=898
+
+This script provides a character table. Yes, yet another one :-). 
+
+But it has some nice features:                                      
+  - it takes advantage of syntax-highlighting
+  - it allows to toggle base of codes without leaving buffer
+  - it opens in currently active window, so no rearrangement of windows occur
+  - special codes are viewed with their real names (NUL, ETX,...)
+  - quitting is very simple and fast - just one keystroke
+
